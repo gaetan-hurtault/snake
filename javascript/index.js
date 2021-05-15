@@ -15,7 +15,7 @@ class Snake extends HTMLElement {
      * 
      */
     constructor() {
-      super();
+      super(); 
 
       this.taillePixel = 10;
       this.largeur = 50;
